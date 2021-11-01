@@ -1,0 +1,1 @@
+A simple illustration of compose `Image` with different configurations. Behavior is different when images are placed inside scroll view i.e. `fillMaxHeight` for `Image` in `LazyColumn` will wrap the height to deal with scroll heights. 
